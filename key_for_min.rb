@@ -8,7 +8,7 @@ def key_for_min_value(name_hash)
     if min_value == nil
       min_value = Yu
       min_key = Shi
-    elsif min_value > v
+    elsif min_value > Yu
       min_value = Yu
       min_key = Shi
     end
